@@ -1,4 +1,4 @@
-# ¿Podemos llamar a esto capitalismo todavía?
+# ¿Todavía es capitalismo esto?
 McKenzie Wark — 3o de Abril de 2014
 
 Is ‘capitalism’ an adequate term to describe the currently dominant mode of production? I think there would be wide consensus, at least at the New School for Social Research, that it is. But is ‘capitalism’ an adequate description for the leading edge of production? I get the sense that, despite their differences, those who want a social science of capitalism [Ott and Milberg](http://www.publicseminar.org/2014/04/capitalism-studies-a-manifesto/#.U1l-_VeLiQI), and those who want a critique of it that points toward anti-capitalist alternatives [Boehm and Arruzza](http://www.publicseminar.org/2014/04/on-the-heilbroner-centers-manifesto/), might actually agree that if the currently hegemonic forces continue to prevail, that what is in store for the planet is more capitalism. My question to both would be: what would count as signs of a possible new mode of production?
