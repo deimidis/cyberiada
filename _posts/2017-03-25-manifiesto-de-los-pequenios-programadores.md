@@ -13,7 +13,6 @@ categories:
 
 <img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif">
 
-# The Little Coder's Predicament (En español)
 	
 
 > Esta es una traducción del texto  [The Little Coder's Predicament](http://viewsourcecode.org/why/hacking/theLittleCodersPredicament.html) escrito por **why The Lucky Stiff**, un artista admirable a quien extrañamos mucho...
@@ -144,3 +143,5 @@ Mi desafío es para ustedes es que puedan empaquetar un lenguaje de programació
 
 
 > Escrito por *why the lucky stiff*, el 10 junio del 2003.
+
+Fuente de la imagen: [Giphy](http://gph.is/1jG0kkm)
