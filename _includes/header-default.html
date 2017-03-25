@@ -32,10 +32,10 @@
         </div>
 
         <ul class="recent">
-            <p>Recent posts:</p>
+            <p>posteos recientes:</p>
              {% for post in site.posts limit:3%}
                 <li>
-                    <a title="Will take a my recent post" href="{{ post.url | prepend: site.baseurl }}">
+                    <a title="Hacia el post reciente" href="{{ post.url | prepend: site.baseurl }}">
                         <h2 class="post-title" itemprop="name">{{ post.title }}</h2>
                     </a>
                 </li>
@@ -43,10 +43,10 @@
         </ul>
 
         <ul class="recent">
-            <p>Recent projects:</p>
+            <p>Últimos proyectos:</p>
              {% for project in site.projects limit:3%}
                 <li>
-                    <a title="Show my recent project" href="{{ project.url}}">
+                    <a title="hacia el proyecto reciente" href="{{ project.url}}">
                         <h2 class="post-title" itemprop="name">{{ project.name }}</h2>
                     </a>
                 </li>
