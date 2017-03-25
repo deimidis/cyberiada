@@ -11,9 +11,8 @@ categories:
 ---
 
 
-<iframe src="//giphy.com/embed/137EaR4vAOCn1S" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/funny-mama-hacker-137EaR4vAOCn1S">via GIPHY</a></p>
+<iframe src="//giphy.com/embed/137EaR4vAOCn1S" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen align="center"></iframe><p><a href="http://giphy.com/gifs/funny-mama-hacker-137EaR4vAOCn1S">via GIPHY</a></p>
 
-# The Little Coder's Predicament (En español)
 
 
 > Esta es una traducción del texto  [The Little Coder's Predicament](http://viewsourcecode.org/why/hacking/theLittleCodersPredicament.html) escrito por **why The Lucky Stiff**, un artista admirable a quien extrañamos mucho...
