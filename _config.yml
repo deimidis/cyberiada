@@ -2,7 +2,7 @@
 title: Cyberiada
 description: "La conciencia era una trampa terrible en la cual se entraba fácilmente, pero que no dejaba salir a nadie"
 baseurl: "/cyberiada" # for test: remove string '/space-jekyll-templa' to ''
-url: "htts://alvarmaciel.github.io/cyberiada" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
+url: "https://alvarmaciel.github.io/cyberiada" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
 # User settings
 username: cyberiada
 user_title: cyberiada - FrontEnd
