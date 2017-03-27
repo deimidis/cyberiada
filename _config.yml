@@ -39,8 +39,8 @@ links:
     url: /about
 # projects in header index
 projects:
-#  - name: Acerca
-#    url: https://github.com/victorvoid/asciilang
+  - name: is this still capitalism?
+    url: https://github.com/alvarmaciel/cyberiada/blob/feature/is-this-still-capitalism/is-this-still-capitalism.md
 #  - name: vim-frontend
 #    url: https://github.com/victorvoid/vim-frontend
 #  - name: generator-capybara

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "manifiesto de los pequeños programadores"
-image: ''
+title:  "Manifiesto de los pequeños programadores"
+image: 'https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif'
 date:   2017-03-25 00:06:31
 tags:
 - programacion
