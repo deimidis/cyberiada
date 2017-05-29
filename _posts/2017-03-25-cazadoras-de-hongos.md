@@ -80,7 +80,7 @@ Traducción del poema de Neil Gaiman publicado en [Brain Picking](http://bit.ly/
 	
 	Las científicas caminan lento, sobre la cima de la colina
 	y bajo la orilla del agua y pasan el lugar donde corre la arcilla roja.
-	Ellas cargan sus bebes en los bolsos que hiceiron,
+	Ellas cargan sus bebes en los bolsos que hicieron,
 	liberando sus manos para recoger los hongos.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/2/29/Coloured_Figures_of_English_Fungi_or_Mushrooms_-_t._184.jpg)
