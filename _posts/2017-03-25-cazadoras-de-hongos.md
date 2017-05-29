@@ -10,7 +10,7 @@ categories:
 - traducciones 
 ---
 
-Traducción del poema de Neil Gaiman publicado en [Brain Picking](http://bit.ly/2rNRWZc
+Traducción del poema de Neil Gaiman publicado en [Brain Picking](http://bit.ly/2rNRWZc)
 
     La ciencia, como bien sabes, mi pequeño, es el estudio
     de la naturaleza y el funcionamiento del universo.
