@@ -10,7 +10,7 @@ categories:
 - traducciones 
 ---
 
-Traducción del poema de Neil Gaiman, recitado por Amanda Palmer y  publicado en [Brain Picking](http://bit.ly/2rNRWZc)
+Traducción del poema feminsta sobre la ciencia de Neil Gaiman, recitado por Amanda Palmer y  publicado en [Brain Pickings](http://bit.ly/2rNRWZc)
 
     La ciencia, como bien sabes, mi pequeño, es el estudio
     de la naturaleza y el funcionamiento del universo.
@@ -41,7 +41,7 @@ Traducción del poema de Neil Gaiman, recitado por Amanda Palmer y  publicado en
 	a los proundo del bosque,
 	y nunca maś volvían.
     
-	Algunos hongos te mataran,
+	Algunos hongos te matarán,
 	mientras otros te mostraran a las diosas
 	y algunos alimentaran el hambre de nuestras barrigas. Identificar
 	Otros nos matarán si los comemos crudos,
