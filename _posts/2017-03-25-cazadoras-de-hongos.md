@@ -10,7 +10,7 @@ categories:
 - traducciones 
 ---
 
-Traducción del poema de Neil Gaiman publicado en [Brain Picking](http://bit.ly/2rNRWZc)
+Traducción del poema de Neil Gaiman, recitado por Amanda Palmer y  publicado en [Brain Picking](http://bit.ly/2rNRWZc)
 
     La ciencia, como bien sabes, mi pequeño, es el estudio
     de la naturaleza y el funcionamiento del universo.
@@ -82,5 +82,9 @@ Traducción del poema de Neil Gaiman publicado en [Brain Picking](http://bit.ly/
 	y bajo la orilla del agua y pasan el lugar donde corre la arcilla roja.
 	Ellas cargan sus bebes en los bolsos que hicieron,
 	liberando sus manos para recoger los hongos.
+
+<iframe src="https://player.vimeo.com/video/214686538" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/214686538">The Universe in Verse finale: Amanda Palmer reads &quot;The Mushroom Hunters&quot; by Neil Gaiman</a> from <a href="https://vimeo.com/brainpicker">Maria Popova</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 
 ![](https://upload.wikimedia.org/wikipedia/commons/2/29/Coloured_Figures_of_English_Fungi_or_Mushrooms_-_t._184.jpg)
