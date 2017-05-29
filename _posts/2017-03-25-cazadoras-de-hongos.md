@@ -50,7 +50,7 @@ Traducción del poema feminsta sobre la ciencia de Neil Gaiman, recitado por Ama
 	y los volvemos a hervir una vez más, y dejamos el agua de lado,
 	solo así podremos comerlo seguras. Observar
 	
-	Observa los nacimientos, medir el crecimiento del vientre y la forma de los pechos,
+	Observar los nacimientos, medir el crecimiento del vientre y la forma de los pechos,
 	y a través de la experiencia descubrir cómo traer sin peligro bebes al mundo.
     
 	Observar todo.
