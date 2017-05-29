@@ -83,7 +83,7 @@ Traducción del poema de Neil Gaiman, recitado por Amanda Palmer y  publicado en
 	Ellas cargan sus bebes en los bolsos que hicieron,
 	liberando sus manos para recoger los hongos.
 
-<iframe src="https://player.vimeo.com/video/214686538" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen align="middle"></iframe>
+<iframe src="https://player.vimeo.com/video/214686538" align="middle" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/214686538">The Universe in Verse finale: Amanda Palmer reads &quot;The Mushroom Hunters&quot; by Neil Gaiman</a> from <a href="https://vimeo.com/brainpicker">Maria Popova</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 
