@@ -82,8 +82,9 @@ Traducción del poema feminsta sobre la ciencia de Neil Gaiman, recitado por Ama
 	y bajo la orilla del agua y pasan por el lugar donde corre la arcilla roja.
 	Ellas cargan sus bebes en los bolsos que hicieron,
 	liberando sus manos para recoger hongos.
-
+<div>
 <iframe src="https://player.vimeo.com/video/214686538" align="middle" width="640" height="360" frameborder="0">&nbsp;</iframe>
+</div>
 <p><a href="https://vimeo.com/214686538">The Universe in Verse finale: Amanda Palmer reads &quot;The Mushroom Hunters&quot; by Neil Gaiman</a> from <a href="https://vimeo.com/brainpicker">Maria Popova</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 
