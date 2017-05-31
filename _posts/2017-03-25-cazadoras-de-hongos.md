@@ -34,21 +34,21 @@ Traducción del poema feminista sobre la ciencia de Neil Gaiman, recitado por Am
 	La primer herramienta de todas fue un bolso para colgar al bebe,
 	para tener nuestras manos libres
 	y algo en lo que poner las bayas y los hongos,
-	los raíces y las buenas hierbas, las semillas e insectos.
+	las raíces y las buenas hierbas, las semillas e insectos.
 	Luego, un mortero para aplastas, machacar, moler o romper.
 	
 	Y algunas veces los hombres perseguían a las bestias
-	a los profundo del bosque,
-	y nunca maś volvían.
+	a lo profundo del bosque,
+	y nunca máś volvían.
     
 	Algunos hongos te matarán,
 	mientras otros te mostraran a las diosas
-	y algunos alimentaran el hambre de nuestras barrigas. Identificar
+	y algunos alimentaran el hambre de nuestras barrigas. Identificar.
 	Otros nos matarán si los comemos crudos,
 	y nos matarán de nuevo si los cocinamos una vez,
 	pero si los hervimos en agua de manantial, y dejamos el agua de lado,
 	y los volvemos a hervir una vez más, y dejamos el agua de lado,
-	solo así podremos comerlo seguras. Observar
+	solo así podremos comerlo seguras. Observar.
 	
 	Observar los nacimientos, medir el crecimiento del vientre y la forma de los pechos,
 	y a través de la experiencia descubrir cómo traer sin peligro bebes al mundo.
@@ -56,8 +56,8 @@ Traducción del poema feminista sobre la ciencia de Neil Gaiman, recitado por Am
 	Observar todo.
     
 	Y las cazadoras de hongos caminan por los caminos que caminan
-	y miran el mundo, y observan los que ven.
-	Y algunas de ellas crecerán y lameran sus los labios,
+	y miran el mundo, y observan lo que ven.
+	Y algunas de ellas crecerán y lameran sus labios,
 	mientras otras se agarraran los estómagos y morirán.
 	Así que leyes sobre lo que es seguro fueron hechas y heredadas. Formular
 	
